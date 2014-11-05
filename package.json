@@ -1,9 +1,8 @@
-
 {
   "name": "pathstate.js",
   "version": "0.0.1",
   "description": "A lightweight path-based hierarchical state machine",
-  "keywords": ["state machine", "fsm", "hierarchical", "workflow", "state"],
+  "keywords": ["pathstate", "state machine", "fsm", "hierarchical", "path", "workflow", "state"],
   "homepage": "https://github.com/fza/pathstate.js",
   "author": "Felix Zandanel <felix@zandanel.me>",
   "license": "MIT",
